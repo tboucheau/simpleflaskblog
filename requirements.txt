@@ -2,14 +2,14 @@ pytest
 certifi==2019.11.28
 chardet==3.0.4
 Click==7.0
-codecov==2.0.16
+codecov==2.0.17
 coverage==5.0.3
 Flask==1.1.1
 idna==2.9
 itsdangerous==1.1.0
 Jinja2==2.11.1
 MarkupSafe==1.1.1
-requests==2.23.0
-urllib3==1.25.8
+requests==2.25.1
+urllib3==1.26.3
 waitress==1.4.3
 Werkzeug==1.0.0
