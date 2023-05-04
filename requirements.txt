@@ -4,7 +4,7 @@ chardet==3.0.4
 Click==7.0
 codecov==2.0.17
 coverage==4.5.4
-Flask==1.1.1
+Flask==2.2.5
 flaskr==1.0.0
 idna==2.8
 itsdangerous==1.1.0
