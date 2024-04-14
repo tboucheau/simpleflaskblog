@@ -6,7 +6,7 @@ codecov==2.0.17
 coverage==4.5.4
 Flask==1.1.1
 flaskr==1.0.0
-idna==2.8
+idna==3.7
 itsdangerous==1.1.0
 Jinja2==2.11.3
 MarkupSafe==1.1.1
