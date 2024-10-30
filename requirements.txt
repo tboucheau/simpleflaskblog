@@ -1,16 +1,17 @@
 pytest
-certifi==2022.12.7
+certifi==2024.7.4
 chardet==3.0.4
 Click==7.0
 codecov==2.0.17
 coverage==4.5.4
-Flask==1.1.1
+Flask==2.2.5
 flaskr==1.0.0
-idna==2.8
+idna==3.7
 itsdangerous==1.1.0
-Jinja2==2.11.3
+Jinja2==3.1.4
 MarkupSafe==1.1.1
-requests==2.22.0
-urllib3==1.26.5
-waitress==2.1.2
-Werkzeug==2.2.3
+requests==2.32.2
+urllib3==1.26.19
+waitress==3.0.1
+Werkzeug==3.0.6
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
