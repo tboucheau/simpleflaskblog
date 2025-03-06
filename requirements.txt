@@ -8,7 +8,7 @@ Flask==2.2.5
 flaskr==1.0.0
 idna==3.7
 itsdangerous==1.1.0
-Jinja2==3.1.5
+Jinja2==3.1.6
 MarkupSafe==1.1.1
 requests==2.32.2
 urllib3==1.26.19
